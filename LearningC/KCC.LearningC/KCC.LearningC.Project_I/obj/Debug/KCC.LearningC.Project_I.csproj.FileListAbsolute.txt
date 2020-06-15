@@ -3,3 +3,4 @@ D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.LearningC.Project_I\bin\Debug
 D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.LearningC.Project_I\obj\Debug\KCC.LearningC.Project_I.csprojAssemblyReference.cache
 D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.LearningC.Project_I\obj\Debug\KCC.LearningC.Project_I.exe
 D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.LearningC.Project_I\obj\Debug\KCC.LearningC.Project_I.pdb
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.LearningC.Project_I\bin\Debug\KCC.LearningC.Project_I.exe.config
