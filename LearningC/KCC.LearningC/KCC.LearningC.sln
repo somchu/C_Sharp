@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCC.LearningC.Project_I", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCC.LearningC.Project_II", "KCC.LearningC.Project_II\KCC.LearningC.Project_II.csproj", "{1676C202-00B6-4D7D-9EA0-43B19D3FF603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCC.Learning.Project_III", "KCC.Learning.Project_III\KCC.Learning.Project_III.csproj", "{D8278E27-8E09-4E74-8662-3C8971673834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1676C202-00B6-4D7D-9EA0-43B19D3FF603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1676C202-00B6-4D7D-9EA0-43B19D3FF603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1676C202-00B6-4D7D-9EA0-43B19D3FF603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8278E27-8E09-4E74-8662-3C8971673834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8278E27-8E09-4E74-8662-3C8971673834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8278E27-8E09-4E74-8662-3C8971673834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8278E27-8E09-4E74-8662-3C8971673834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

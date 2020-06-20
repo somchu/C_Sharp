@@ -1,0 +1,5 @@
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.Learning.Project_III\bin\Debug\KCC.Learning.Project_III.exe
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.Learning.Project_III\bin\Debug\KCC.Learning.Project_III.pdb
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.Learning.Project_III\obj\Debug\KCC.Learning.Project_III.csprojAssemblyReference.cache
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.Learning.Project_III\obj\Debug\KCC.Learning.Project_III.exe
+D:\Programming\C_SHARP\LearningC\KCC.LearningC\KCC.Learning.Project_III\obj\Debug\KCC.Learning.Project_III.pdb
